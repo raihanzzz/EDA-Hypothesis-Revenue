@@ -1,5 +1,7 @@
 # 🚖 Maximizing Taxi Company Revenue in NYC
 
+📊 **Dataset**: [NYC Yellow Taxi Trip Data (Jan 2020)](https://www.kaggle.com/datasets/gauravpathak1789/yellow-tripdata-2020-01)  
+
 ## 🧐 Project Purpose  
 Analyze NYC Yellow Cab trip data to **uncover revenue-boosting strategies**:  
 **How can ride patterns, payment methods, and passenger counts inform optimal taxi operations?**
@@ -7,9 +9,6 @@ Analyze NYC Yellow Cab trip data to **uncover revenue-boosting strategies**:
 ## 📂 Project Folder Structure
 ```
 📂 EDA-Hypothesis-Revenue
-│
-├── 📂 dataset
-│ └── yellow_tripdata_2020-01.csv
 │
 ├── 📂 notebook
 │ └── Maximizing_Revenue.ipynb
