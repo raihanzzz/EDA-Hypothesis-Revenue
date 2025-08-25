@@ -16,9 +16,6 @@ Analyze NYC Yellow Cab trip data to **uncover revenue-boosting strategies**:
 │
 └── 📂 assets
 └── screenshots
-├── eda_plot.png
-├── revenue_trends.png
-└── hypothesis_test.png
 │
 └── README.md
 ```
